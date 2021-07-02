@@ -1,0 +1,15 @@
+{
+  "name": "@zt-mobile/react-native-countdown-text",
+  "version": "1.0.3",
+  "description": "Tiny React Native component that formats a timestamp (of a date in the future) to a readable countdown to that time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realKfiros/react-native-countdown-text.git"
+  },
+  "author": "Kfir Nevo",
+  "license": "ISC"
+}
